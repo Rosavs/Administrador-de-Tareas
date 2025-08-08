@@ -571,11 +571,3 @@ while True:
         if b.isnumeric() == False:             # si el valor introducido no es numérico
             print("Sólo numeros")              # avisa
 
-"""¡Listo! Este es el código completo con todas las modificaciones para que tu administrador de tareas funcione con una base de datos SQLite.
-
-Ahora, puedes ejecutar esta celda de código. Al ejecutarla por primera vez, creará el archivo `tareas.db` y te pedirá la primera tarea. Las siguientes veces que lo ejecutes, cargará las tareas que hayas guardado previamente.
-
-Puedes probar las opciones de añadir, listar, eliminar y completar para ver cómo interactúan con la base de datos.
-
-Si tienes alguna pregunta o quieres hacer alguna otra mejora, ¡solo dime! Hemos completado el plan de integración.
-"""
