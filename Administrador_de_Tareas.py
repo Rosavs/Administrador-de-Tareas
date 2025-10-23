@@ -2,7 +2,7 @@
 
 #Visual Studio Code versión 3.11.2 64-bit
 
-#La ejecución empieza en la línea 128 pidiendo 
+#La ejecución empieza en la línea 125 pidiendo 
 #un nombre para el organizador de tareas y un número máximo que puede almacenar
 
 #La clase Tarea se inicia pidiendo una primera tarea
@@ -143,3 +143,4 @@ while True:
         if b.isnumeric() == False:             #si el valor introducido no es numérico 
             print("Sólo numeros")              #avisa  
    
+
